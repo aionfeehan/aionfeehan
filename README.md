@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm an options quant / former machine learning researcher on a trading floor. My coding background is all Python, so I'm working on building out my C++ knowledge! 
+
+Ask me about math or coding or dogs, or how I hope to bring banks out of the stone age. 
+
+You can reach me at fireseine@gmail.com, or feel free to find me on Linkedin.
+
 <!--
 **aionfeehan/aionfeehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
