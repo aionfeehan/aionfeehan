@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an options quant / former machine learning researcher on a trading floor. I mostly code in Python/C++, but I'm currently going through a C phase.
+I'm an options quant / former machine learning researcher on a trading floor. I mostly code in Python/C++ at work, but I'm currently going through phase where I just do stuff in C for fun.
 
 Ask me about math or coding or dogs, or how I hope to bring banks out of the stone age. 
 
